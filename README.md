@@ -11,3 +11,6 @@ This is by no means a display of knowledge. It is merely a way for me to practic
 Cheers, 
 
 jamesroyston
+
+
+update (29 Oct 2018): this course is on pause for the time being. I am currently working on some projects.
